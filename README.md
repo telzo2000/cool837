@@ -20,4 +20,13 @@ PCB・・・Only cool837(C-13X　is wiring)
 Bottom plate・・・Different parts
 <br>
 
+# features
+
+qaz and alice layout
+<br>
+37keys
+<br>
+PIM447 Trackball saport
+<br>
+
 
