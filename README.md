@@ -12,8 +12,12 @@ cool837 is inspired by [C-13X](https://github.com/flurples/C-13X).
 # Difference points
 
 Top plate ・・・Same parts
+<br>
 Switch plate・・・Different parts
+<br>
 PCB・・・Only cool837(C-13X　is wiring)
+<br>
 Bottom plate・・・Different parts
+<br>
 
 
